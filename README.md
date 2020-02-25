@@ -9,7 +9,7 @@ to fully qualified package name:
 my.package.in.project.module.R.id.some_id
 ```
 
-#How to prepare:
+# How to prepare:
 1. change `projectDir` in script
 2. adjust flags 
  a) `enableSimpleRefactoring` - refactor resources that exist in single variation
@@ -17,7 +17,7 @@ my.package.in.project.module.R.id.some_id
  c) `checkSuspiciousResources` - display warnings for suspicious resources that can't be refactored
  d) `warnAboutSkipped` - display warnings about skipped resources
  
- #How to run:
+ # How to run:
  In terminal run kts by this:
  ```
  kotlinc -script ./refactor_resources.kts 

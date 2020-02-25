@@ -9,6 +9,11 @@ to fully qualified package name:
 my.package.in.project.module.R.id.some_id
 ```
 
+It can handle:
+* multi-module project
+* molti-flavor project
+* non-default folders configurations
+
 # How to prepare:
 1. change `projectDir` in script
 2. adjust flags 

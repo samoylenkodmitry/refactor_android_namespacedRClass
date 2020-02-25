@@ -11,7 +11,7 @@ my.package.in.project.module.R.id.some_id
 
 It can handle:
 * multi-module project
-* molti-flavor project
+* multi-flavor project
 * non-default folders configurations
 
 # How to prepare:

@@ -1,4 +1,4 @@
-# refactor_android_namespacedRClass
+# Script for refactoring project to prepare for android.namespacedRClass=true
 Script for refactoring android project for new gradle property: `android.namespacedRClass=true`
 This script will refactor resource in .java and .kt files from look like:
 ```java
